@@ -1,1 +1,51 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset= "utf 8">
+    <title> Final Project </title>
+     <link rel="stylesheet" type="text/css" href="mystyle.css">
+    <style>
+      body {background-image:url(myBackground.jpg);
+      background-size:cover;
+      }
+      #content {width:800px;}
+    </style>
+  </head>
+  <body>
+    <img src="Banner Revised.jpg">
+<table id="table">
+  <thead>
+    <tr>
+      <th id="th"> <a href="index.html"> <img src="Home (new).png"> </a> </th>
+      <th id="th"> <a href="Javascripts.html"> <img src="Javascripts (new).png"> </a> </th>
+      <th id="th"> <a href="Apps.html"> <img src="Apps (new).png"> </a> </th>
+      <th id="th"> <a href="About Me.html"> <img src="About me (new).png"> </a> </th>
+      <th id-"th"> <a href="Final Project
+    </tr>
+  </thead>
+    </table>
+    <div id="content">
+    <h1> Final Project</h1>
+    <p1>This webpage is dedicated to my final project content for CSC 106. I chose to create a game, called "Pizza Delivery." 
+    The premise of the game is simple: deliver the pizza. The characers within the game are heavily based on my own experience as a
+    delivery driver. The game instructions are explained within the game itself, but they are breifly as follows:
+    <ul>
+      <li> There are two levels, Cross the screen to complete each level and get a tip.
+      <li> The character moves across the screen automatically, but you control up / down movement
+      <li> The enemies are from a rival restaurant called YBL and want to steal your recipes
+      <li> Click to shoot them or avoid them with the up and down arrow keys 
+      <li> If they touch you, you stop moving for 3 seconds
+      <li> If they reach the left side of the screen, they steal a recipe
+      <li> Your recipes are your health
+      <li> If they reach 0, the game ends
+      <li> Your tips are your score
+      <li> Tips are calcuated based on how many recipes you have left when you reach the right side 
+      and how long it took you to get there
+    </ul>
+    Good luck!
+    </p1>
+    </div>
+    </body>
+    </html>
+
 
